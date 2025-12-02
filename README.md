@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Andrés
 
-<!--
-**6odoy/6odoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Science student in Colombia with an emphasis on Bayesian statistics & big data.
 
-Here are some ideas to get you started:
+I am currently pursuing a minor in Healtech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+
+- Development of Machine Learning models (scikit-learn, TensorFlow, PyTorch). 
+- Design of ETL pipelines.
+- Database management.
+- Visualization (Power BI, Tableau, Looker Studio).
+
+## My tools
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
