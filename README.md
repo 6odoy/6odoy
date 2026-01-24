@@ -1,15 +1,13 @@
 # Hi, I'm Andrés
 
-I am a Data Science student in Colombia with an emphasis on Bayesian statistics & big data.
-
-I am currently pursuing a minor in Healtech.
+I'm a Data Science student in Colombia focused on analysis and modeling using Machine Learning (ML) and Big Data techniques to reduce uncertainty in decision-making. Additionally, I am pursuing a minor in HealthTech focused on precision medicine and epigenetic.
 
 ## What I do
 
 - Development of Machine Learning models (scikit-learn, TensorFlow, PyTorch). 
 - Design of ETL pipelines.
 - Database management.
-- Visualization (Power BI, Tableau, Looker Studio).
+- Visualization (Seaborn, Dash, Power BI, Tableau).
 
 ## My tools
 
