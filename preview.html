@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en" data-color-mode="dark" data-dark-theme="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>6odoy/6odoy - GitHub Profile Preview</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.1.0/github-markdown-dark.min.css">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+            background-color: #0d1117;
+            color: #c9d1d9;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #161b22;
+            padding: 16px 32px;
+            display: flex;
+            align-items: center;
+            border-bottom: 1px solid #30363d;
+        }
+        .header svg {
+            fill: #f0f6fc;
+            margin-right: 16px;
+        }
+        .container {
+            max-width: 1216px;
+            margin: 0 auto;
+            padding: 32px;
+            display: flex;
+            gap: 24px;
+        }
+        .sidebar {
+            width: 296px;
+            flex-shrink: 0;
+        }
+        .profile-pic {
+            width: 296px;
+            height: 296px;
+            border-radius: 50%;
+            border: 1px solid #30363d;
+            background-color: #21262d;
+            margin-bottom: 16px;
+        }
+        .username {
+            font-size: 24px;
+            font-weight: 300;
+            color: #8b949e;
+            margin-bottom: 16px;
+        }
+        .content {
+            flex-grow: 1;
+        }
+        .readme-box {
+            border: 1px solid #30363d;
+            border-radius: 6px;
+            background-color: #0d1117;
+        }
+        .readme-header {
+            padding: 16px;
+            background-color: #161b22;
+            border-bottom: 1px solid #30363d;
+            font-size: 14px;
+            font-weight: 600;
+            border-radius: 6px 6px 0 0;
+        }
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+            background-color: transparent !important;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <svg height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"></path></svg>
+        <span style="font-weight: 600; font-size: 14px;">Mockup de tu Perfil</span>
+    </div>
+    
+    <div class="container">
+        <div class="sidebar">
+            <div class="profile-pic"></div>
+            <h1 style="margin: 0; font-size: 24px;">Andrés</h1>
+            <div class="username">6odoy</div>
+            <button style="width: 100%; padding: 5px 16px; background-color: #21262d; border: 1px solid rgba(240,246,252,0.1); color: #c9d1d9; border-radius: 6px; cursor: pointer; margin-bottom: 16px;">Edit profile</button>
+            <div style="font-size: 14px; color: #8b949e;">Data Science Student • HealthTech</div>
+        </div>
+        
+        <div class="content">
+            <div style="display: flex; gap: 8px; margin-bottom: 16px; font-size: 14px;">
+                <div style="padding: 8px 16px; border-bottom: 2px solid #f78166; font-weight: 600;">Overview</div>
+                <div style="padding: 8px 16px; color: #8b949e;">Repositories <span style="background: #30363d; padding: 2px 6px; border-radius: 12px; font-size: 12px;">12</span></div>
+            </div>
+            
+            <div class="readme-box">
+                <div class="readme-header">
+                    6odoy / README.md
+                </div>
+                <!-- Markdown Container -->
+                <article class="markdown-body">
+                    <!-- Contenido inyectado -->
+                </article>
+            </div>
+        </div>
+    </div>
+
+    <!-- Script to load the HTML generated from marked -->
+    <script>
+        fetch('index.html')
+            .then(response => response.text())
+            .then(data => {
+                document.querySelector('.markdown-body').innerHTML = data;
+            });
+    </script>
+</body>
+</html>
