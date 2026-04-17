@@ -38,17 +38,31 @@
 
 <br />
 
-## 🌟 Featured Projects
+## 🧭 Featured Research Projects
 
-### [Due Diligence AI](https://github.com/6odoy/due-dilligence-ai)
 <p align="center">
-  <img src="due-dilligence-ai.png" alt="Due Diligence AI Preview" width="100%" />
+  <i>Proyectos de Ciencia de Datos, Machine Learning y HealthTech enfocados en medicina de precisión, modelado predictivo y automatización de procesos.</i>
 </p>
 
-An advanced **Agentic RAG** platform designed for automated financial and legal due diligence. Built with **LangGraph**, **ChromaDB**, and **GPT-4o**, it features:
-- 🔍 **Intelligent Document Analysis:** Query rewriting and relevance grading for high-accuracy insights.
-- ⚖️ **Legal & Financial Risk Assessment:** Structured entity extraction and automated risk scoring.
-- 🚦 **Traffic-Light Severity Indicators:** Clear, actionable summaries of potential red flags.
+<div align="center">
+  <a href="https://github.com/6odoy/due-dilligence-ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=6odoy&repo=due-dilligence-ai&theme=tokyonight&show_owner=true" />
+  </a>
+</div>
+
+<br />
+
+<p align="center">
+  <a href="https://github.com/6odoy?tab=repositories">
+    <img src="https://img.shields.io/badge/ALL%20REPOS-316192?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/6odoy">
+    <img src="https://img.shields.io/badge/FOLLOW-2496ED?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/6odoy">
+    <img src="https://img.shields.io/badge/STARS-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 <br />
 
