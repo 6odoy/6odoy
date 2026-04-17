@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://github.com/6odoy/due-diligence-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=6odoy&repo=due-disligence-ai&theme=tokyonight&show_owner=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=6odoy&repo=due-diligence-ai&theme=tokyonight&show_owner=true" />
   </a>
 </div>
 
