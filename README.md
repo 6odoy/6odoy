@@ -8,7 +8,7 @@
   
   <p align="center">
     <a href="https://github.com/6odoy">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Data+Science+Student;Machine+Learning+Explorer;HealthTech+%26+Precision+Medicine;Turning+Data+into+Decisions" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7B61FF&center=true&vCenter=true&width=600&lines=Data+Science;IA+Explorer;HealthTech;Turning+Data+into+Decisions" alt="Typing SVG" />
     </a>
   </p>
   
@@ -40,13 +40,12 @@
 
 ## 🧭 Featured Research Projects
 
-<p align="center">
-  <i>Proyectos de Ciencia de Datos, Machine Learning y HealthTech enfocados en medicina de precisión, modelado predictivo y automatización de procesos.</i>
-</p>
-
 <div align="center">
   <a href="https://github.com/6odoy/due-diligence-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=6odoy&repo=due-diligence-ai&theme=tokyonight&show_owner=false" />
+  </a>
+  <a href="https://github.com/6odoy/transmilenio-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=6odoy&repo=transmilenio-project&theme=tokyonight&show_owner=false" />
   </a>
 </div>
 
