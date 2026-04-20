@@ -41,11 +41,14 @@
 ## 🧭 Featured Research Projects
 
 <div align="center">
+  <a href="https://github.com/6odoy/transmilenio-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=6odoy&repo=transmilenio-project&theme=tokyonight&show_owner=false" />
+  </a>
   <a href="https://github.com/6odoy/due-diligence-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=6odoy&repo=due-diligence-ai&theme=tokyonight&show_owner=false&v=1" />
   </a>
-  <a href="https://github.com/6odoy/transmilenio-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=6odoy&repo=transmilenio-project&theme=tokyonight&show_owner=false" />
+  <a href="https://github.com/6odoy/kafka-spark-streaming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=6odoy&repo=kafka-spark-streaming&theme=tokyonight&show_owner=false&v=1" />
   </a>
 </div>
 
